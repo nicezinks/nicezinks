@@ -24,7 +24,7 @@
 
 # 👨‍💻 Sobre Mim
 
-Olá! Tenho **13 anos** e sou um desenvolvedor **Full Stack** apaixonado por programação, tecnologia e desenvolvimento de software. Desde que comecei a programar, descobri que criar aplicações é algo que realmente gosto de fazer. Programar para mim não é apenas escrever código, mas transformar ideias em projetos funcionais, aprender constantemente e evoluir a cada desafio.
+Olá! Sou um desenvolvedor **Full Stack** apaixonado por programação, tecnologia e desenvolvimento de software. Desde que comecei a programar, descobri que criar aplicações é algo que realmente gosto de fazer. Programar para mim não é apenas escrever código, mas transformar ideias em projetos funcionais, aprender constantemente e evoluir a cada desafio.
 
 Minha principal linguagem é **Python**, onde concentro praticamente todos os meus estudos e a maior parte dos meus projetos. É nela que desenvolvo aplicações desktop, automações, bots, ferramentas, sistemas completos, APIs, utilitários e diversos projetos Open Source. Busco sempre escrever códigos organizados, reutilizáveis, rápidos e fáceis de manter.
 
