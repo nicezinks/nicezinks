@@ -1,9 +1,8 @@
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:00C896&text=Python%20Developer&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Python Dev</h1>
+<h1 align="center">👋 Hi, I'm Python Dev</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=900&lines=Python+Developer;Full+Stack+Developer;Desktop+Application+Developer;Windows+%26+Linux+Developer;Always+Learning+New+Technologies"/>
@@ -22,63 +21,63 @@
 
 ---
 
-# 👨‍💻 Sobre Mim
+# 👨‍💻 About Me
 
-Olá! Sou um desenvolvedor **Full Stack** apaixonado por programação, tecnologia e desenvolvimento de software. Desde que comecei a programar, descobri que criar aplicações é algo que realmente gosto de fazer. Programar para mim não é apenas escrever código, mas transformar ideias em projetos funcionais, aprender constantemente e evoluir a cada desafio.
+Hello! I'm a **Full Stack Developer** passionate about programming, technology, and software development. Ever since I started coding, I discovered that building applications is something I genuinely enjoy. For me, programming is not just about writing code—it's about turning ideas into real projects, continuously learning, and improving with every challenge.
 
-Minha principal linguagem é **Python**, onde concentro praticamente todos os meus estudos e a maior parte dos meus projetos. É nela que desenvolvo aplicações desktop, automações, bots, ferramentas, sistemas completos, APIs, utilitários e diversos projetos Open Source. Busco sempre escrever códigos organizados, reutilizáveis, rápidos e fáceis de manter.
+My primary language is **Python**, where I focus most of my studies and the majority of my projects. Using Python, I develop desktop applications, automation tools, bots, complete systems, REST APIs, utilities, and a wide variety of Open Source projects. I always strive to write clean, reusable, efficient, and maintainable code.
 
-Também possuo conhecimentos em **HTML5**, **CSS3** e **JavaScript**, tecnologias que utilizo para desenvolver interfaces modernas, responsivas e aplicações web completas. Gosto de criar layouts agradáveis, componentes reutilizáveis e experiências intuitivas para o usuário.
+I also have experience with **HTML5**, **CSS3**, and **JavaScript**, technologies I use to build modern, responsive interfaces and complete web applications. I enjoy creating clean layouts, reusable components, and intuitive user experiences.
 
-Além disso, estudo **Java**, linguagem na qual atualmente possuo conhecimentos de nível **Júnior** e continuo aprendendo para expandir minhas habilidades como desenvolvedor.
+Additionally, I study **Java**, where I currently have **Junior-level** knowledge and continue improving my skills to become a more versatile developer.
 
-Estou sempre buscando aprender novas tecnologias, testar diferentes bibliotecas, explorar frameworks modernos e desenvolver projetos que me desafiem a evoluir. Acredito que cada projeto representa uma oportunidade de adquirir experiência e aperfeiçoar minhas habilidades.
+I'm always looking to learn new technologies, experiment with different libraries, explore modern frameworks, and build projects that challenge me to grow. I believe every project is an opportunity to gain experience and improve my development skills.
 
-Grande parte dos meus projetos é desenvolvida para ser compatível com **Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11** e também **Linux**, procurando oferecer estabilidade e compatibilidade entre plataformas.
+Most of my projects are designed to be compatible with **Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11**, as well as **Linux**, ensuring stability and cross-platform compatibility whenever possible.
 
-Meu objetivo é crescer cada vez mais como desenvolvedor, participar de projetos interessantes, contribuir com a comunidade Open Source e construir aplicações modernas, rápidas e bem estruturadas.
+My goal is to keep growing as a developer, contribute to interesting projects, support the Open Source community, and build modern, high-performance, and well-structured software.
 
 ---
 
-# 🚀 Linguagens
+# 🚀 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,java"/>
 </p>
 
-| Linguagem | Nível |
-|-----------|--------|
-| 🐍 Python | Pleno |
-| 🌐 HTML5 | Pleno |
-| 🎨 CSS3 | Pleno |
-| ⚡ JavaScript | Pleno |
-| ☕ Java | Júnior |
+| Language | Level |
+|----------|--------|
+| 🐍 Python | Mid-Level |
+| 🌐 HTML5 | Mid-Level |
+| 🎨 CSS3 | Mid-Level |
+| ⚡ JavaScript | Mid-Level |
+| ☕ Java | Junior |
 
 ---
 
-# 🐍 Tecnologias Python
+# 🐍 Python Technologies
 
 ### Frameworks
 
 - Flask
 - FastAPI
-- Django *(em aprendizado)*
+- Django *(currently learning)*
 
-### Interface Gráfica
+### GUI Development
 
 - Tkinter
 - CustomTkinter
 - ttk
 - PyQt
 
-### Banco de Dados
+### Databases
 
 - SQLite3
 - MySQL
 - PostgreSQL
 - JSON
 
-### Bibliotecas
+### Libraries
 
 - requests
 - asyncio
@@ -103,17 +102,17 @@ Meu objetivo é crescer cada vez mais como desenvolvedor, participar de projetos
 - sys
 - re
 
-### Desenvolvimento
+### Development
 
-- APIs REST
-- Programação Orientada a Objetos (POO)
-- Desenvolvimento Desktop
-- Desenvolvimento Full Stack
+- REST APIs
+- Object-Oriented Programming (OOP)
+- Desktop Development
+- Full Stack Development
 - Bots
-- Ferramentas
-- Sistemas
-- Utilitários
-- Automações
+- Tools
+- Systems
+- Utilities
+- Automation
 - Open Source
 - Git
 - GitHub
@@ -124,16 +123,16 @@ Meu objetivo é crescer cada vez mais como desenvolvedor, participar de projetos
 
 # 🌐 HTML5
 
-- HTML5 Semântico
+- Semantic HTML5
 - Canvas
 - SVG
-- Formulários
+- Forms
 - Landing Pages
 - Dashboards
-- Estruturação de Sistemas Web
-- SEO Básico
-- Componentização
-- Layouts Responsivos
+- Web Application Structure
+- Basic SEO
+- Component-Based Design
+- Responsive Layouts
 
 ---
 
@@ -141,14 +140,14 @@ Meu objetivo é crescer cada vez mais como desenvolvedor, participar de projetos
 
 - Flexbox
 - CSS Grid
-- Responsividade
+- Responsive Design
 - Media Queries
-- Variáveis CSS
+- CSS Variables
 - Glassmorphism
-- Gradientes
-- Sombras
-- Animações
-- Transições
+- Gradients
+- Shadows
+- Animations
+- Transitions
 - Hover Effects
 - Dark Mode
 
@@ -158,7 +157,7 @@ Meu objetivo é crescer cada vez mais como desenvolvedor, participar de projetos
 
 - ES6+
 - DOM
-- Eventos
+- Events
 - Fetch API
 - JSON
 - Async/Await
@@ -166,31 +165,31 @@ Meu objetivo é crescer cada vez mais como desenvolvedor, participar de projetos
 - LocalStorage
 - SessionStorage
 - Cookies
-- Manipulação do DOM
-- Consumo de APIs
-- CRUD
-- Validação de Formulários
+- DOM Manipulation
+- API Integration
+- CRUD Operations
+- Form Validation
 
 ---
 
 # ☕
 
-## Java (Júnior)
+## Java (Junior)
 
-- Programação Orientada a Objetos
+- Object-Oriented Programming
 - Classes
-- Objetos
-- Métodos
-- Herança
-- Polimorfismo
-- Encapsulamento
+- Objects
+- Methods
+- Inheritance
+- Polymorphism
+- Encapsulation
 - Interfaces
 - Collections
-- Tratamento de Exceções
+- Exception Handling
 
 ---
 
-# 💻 Plataformas Suportadas
+# 💻 Supported Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=windows,linux"/>
@@ -206,11 +205,11 @@ Meu objetivo é crescer cada vez mais como desenvolvedor, participar de projetos
 
 ### Linux
 
-- ✅ Compatibilidade com distribuições Linux sempre que possível.
+- ✅ Compatible with Linux distributions whenever possible.
 
 ---
 
-# 🛠️ Ferramentas
+# 🛠️ Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux"/>
@@ -221,29 +220,30 @@ Meu objetivo é crescer cada vez mais como desenvolvedor, participar de projetos
 - Visual Studio Code
 - Windows Terminal
 - PowerShell
-- CMD
+- Command Prompt (CMD)
 - Linux Terminal
 
 ---
 
-# 💼 Disponível para Trabalhos
+# 💼 Available for Work
 
-Atualmente estou disponível para participar de **projetos pequenos e médios**, tanto para desenvolver novas aplicações quanto para realizar melhorias, manutenção e implementação de funcionalidades em projetos existentes.
+I'm currently available for **small and medium-sized projects**, whether it's building new applications, improving existing software, performing maintenance, or implementing new features.
 
-Posso contribuir em projetos envolvendo:
+I can contribute to projects involving:
 
-- 🐍 Desenvolvimento em Python
-- 🌐 Desenvolvimento Web (HTML, CSS e JavaScript)
-- 🖥️ Aplicações Desktop
+- 🐍 Python Development
+- 🌐 Web Development (HTML, CSS & JavaScript)
+- 🖥️ Desktop Applications
 - 🤖 Bots
-- ⚙️ Ferramentas
-- 🔌 APIs REST
-- 📦 Sistemas personalizados
-- 🪟 Aplicações para Windows
-- 🐧 Aplicações para Linux
+- ⚙️ Software Tools
+- 🔌 REST APIs
+- 📦 Custom Systems
+- 🪟 Windows Applications
+- 🐧 Linux Applications
 
-Caso tenha interesse em colaborar ou desenvolver um projeto, fique à vontade para entrar em contato. 
-*Discord*: meckzx_0
+If you're interested in collaborating or starting a new project, feel free to get in touch.
+
+**Discord:** `meckzx_0`
 
 ---
 
@@ -254,4 +254,3 @@ Caso tenha interesse em colaborar ou desenvolver um projeto, fique à vontade pa
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00C896,100:0D1117"/>
 </p>
-```
