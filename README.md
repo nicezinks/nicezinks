@@ -10,7 +10,6 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Age-13-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-Main%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=for-the-badge"/>
