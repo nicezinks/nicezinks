@@ -1,99 +1,99 @@
-#  eae, eu sou o Temg
+# hey, I'm Temg
 
- curto programação, tecnologia e ficar criando umas coisas aleatórias que às vezes funcionam de primeira (milagre)
+I like programming, technology and creating some random stuff that sometimes works on the first try (miracle)
 
-Atualmente mexo principalmente com:
+Currently I mainly work with:
 
-*  **Python**
-*  **C**
-*  **TypeScript**
-*  **JavaScript**
-*  **HTML + CSS**
+* **Python**
+* **C**
+* **TypeScript**
+* **JavaScript**
+* **HTML + CSS**
 
-##  sobre mim
+## about me
 
-gosto de aprender fazendo, então normalmente uma ideia vira um projeto e o projeto vira mais um monte de coisa pra aprender kkk
+I like learning by doing, so normally an idea becomes a project and the project becomes a whole bunch of things to learn lol
 
-curto principalmente:
+I mainly like:
 
-*  criar ferramentas
-*  automação
-*  programas desktop
-*  projetos web
-*  APIs
-*  coisas de sistema
-*  projetos experimentais
-* testar ideias diferentes
-* criar projetos pra colocar no GitHub
+* creating tools
+* automation
+* desktop programs
+* web projects
+* APIs
+* system stuff
+* experimental projects
+* trying different ideas
+* creating projects to put on GitHub
 
-não gosto muito de fazer projeto só pra "funcionar".
+I don't really like making a project just to "work".
 
-tento deixar o código organizado, fácil de entender e fácil de mexer depois.
+I try to keep the code organized, easy to understand and easy to modify later.
 
-## linguagens que eu uso
+## languages I use
 
-| linguagem     | uso                                                 |
-| ------------- | --------------------------------------------------- |
-|    Python     | automação, ferramentas, APIs e aplicações           |
-|    C          | programas nativos e coisas mais próximas do sistema |
-|    TypeScript | aplicações modernas e projetos maiores              |
-|    JavaScript | sites, interfaces e aplicações web                  |
-|    HTML/CSS   | interfaces e projetos web                           |
+| language   | use                                             |
+| ---------- | ----------------------------------------------- |
+| Python     | automation, tools, APIs and applications        |
+| C          | native programs and things closer to the system |
+| TypeScript | modern applications and larger projects         |
+| JavaScript | websites, interfaces and web applications       |
+| HTML/CSS   | interfaces and web projects                     |
 
-## o que eu curto fazer
+## what I like doing
 
 ```text
- programas
- sites e aplicações web
- automações
- ferramentas
+ programs
+ websites and web applications
+ automation
+ tools
  APIs
- utilitários
- projetos experimentais
- ideias aleatórias
+ utilities
+ experimental projects
+ random ideas
 ```
 
 ## windows + linux
 
-gosto de mexer tanto com **Windows** quanto com **Linux**.
+I like working with both **Windows** and **Linux**.
 
-também curto entender como as coisas funcionam por trás do programa, principalmente quando envolve sistema, processos, arquivos e comunicação entre aplicações.
+I also like understanding how things work behind the program, especially when it involves systems, processes, files and communication between applications.
 
-##  aprendendo sempre
+## always learning
 
-ainda tô aprendendo muita coisa e provavelmente vou quebrar bastante código no caminho kkk
+I'm still learning a lot of things and I'll probably break a lot of code along the way lol
 
-mas é justamente fazendo projeto que eu aprendo melhor.
+but it's exactly by making projects that I learn best.
 
 ```text
-ideia
+idea
  \
-código
+code
  \
-erro
+error
  \
-mais erro
+more errors
  \
-conserta
+fix it
  \
-aprende
+learn
  \
-projeto funcionando
+working project
 ```
 
-##  projetos
+## projects
 
-aqui no meu GitHub tem projetos de vários tipos.
+Here on my GitHub there are projects of all kinds.
 
-alguns são mais sérios, outros são experimentos e alguns simplesmente começaram com:
+Some are more serious, others are experiments and some simply started with:
 
-> "e se eu fizer isso?"
+> "what if I make this?"
 
-e acabou virando um projeto inteiro kkk
+and ended up becoming an entire project lol
 
-##  objetivo
+## goal
 
-quero continuar evoluindo como dev e conseguir trabalhar com diferentes partes do desenvolvimento:
+I want to keep evolving as a dev and be able to work with different parts of development:
 
 ```text
  frontend
@@ -104,12 +104,12 @@ quero continuar evoluindo como dev e conseguir trabalhar com diferentes partes d
    \
  desktop
    \
- sistemas
+ systems
 ```
 
-a ideia é continuar aprendendo e criando projetos cada vez maiores.
+The idea is to keep learning and creating bigger and bigger projects.
 
-##  github
+## github
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicezinks&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -119,15 +119,14 @@ a ideia é continuar aprendendo e criando projetos cada vez maiores.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicezinks&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-##  contato
+## contact
 
- GitHub: **nicezinks**
+GitHub: **nicezinks**
 
- Discord: **temg090**
+Discord: **temg090**
 
 ---
 
 <p align="center">
-  <b>code - erro - pesquisa - conserta - aprende - repete </b>
+  <b>code - error - search - fix - learn - repeat</b>
 </p>
-
