@@ -1,115 +1,44 @@
-# hey, I'm Temg
+# hey, i'm temg
 
-I like programming, technology and creating some random stuff that sometimes works on the first try (miracle)
+just a dev who likes coding, breaking stuff and fixing it lol.
 
-Currently I mainly work with:
+i code in **python, c, javascript, typescript, html and css**.
 
-* **Python**
-* **C**
-* **TypeScript**
-* **JavaScript**
-* **HTML + CSS**
+i like building all kinds of stuff, from small scripts to bigger projects.
 
-## about me
+## my projects
 
-I like learning by doing, so normally an idea becomes a project and the project becomes a whole bunch of things to learn lol
+my github is full of different projects.
 
-I mainly like:
+some are serious, some are just experiments.
 
-* creating tools
+most of them start with a random idea like:
+
+> "what if i build this?"
+
+and somehow turn into a whole project lmao.
+
+## what i do
+
+* frontend
+* backend
+* apis
+* desktop apps
+* system tools
 * automation
-* desktop programs
-* web projects
-* APIs
-* system stuff
-* experimental projects
-* trying different ideas
-* creating projects to put on GitHub
+* random experiments
 
-I don't really like making a project just to "work".
+## my goal
 
-I try to keep the code organized, easy to understand and easy to modify later.
+keep learning, improve my code and build cooler stuff.
 
-## languages I use
+i'm always trying new things and exploring different areas of development.
 
-| language   | use                                             |
-| ---------- | ----------------------------------------------- |
-| Python     | automation, tools, APIs and applications        |
-| C          | native programs and things closer to the system |
-| TypeScript | modern applications and larger projects         |
-| JavaScript | websites, interfaces and web applications       |
-| HTML/CSS   | interfaces and web projects                     |
+making mistakes is part of the process.
 
-## what I like doing
+more errors, more fixes, more experience.
 
-```text
- programs
- websites and web applications
- automation
- tools
- APIs
- utilities
- experimental projects
- random ideas
-```
-
-## windows + linux
-
-I like working with both **Windows** and **Linux**.
-
-I also like understanding how things work behind the program, especially when it involves systems, processes, files and communication between applications.
-
-## always learning
-
-I'm still learning a lot of things and I'll probably break a lot of code along the way lol
-
-but it's exactly by making projects that I learn best.
-
-```text
-idea
- \
-code
- \
-error
- \
-more errors
- \
-fix it
- \
-learn
- \
-working project
-```
-
-## projects
-
-Here on my GitHub there are projects of all kinds.
-
-Some are more serious, others are experiments and some simply started with:
-
-> "what if I make this?"
-
-and ended up becoming an entire project lol
-
-## goal
-
-I want to keep evolving as a dev and be able to work with different parts of development:
-
-```text
- frontend
-   \
- backend
-   \
- APIs
-   \
- desktop
-   \
- systems
-```
-
-The idea is to keep learning and creating bigger and bigger projects.
-
-## github
+## github stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicezinks&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -121,12 +50,13 @@ The idea is to keep learning and creating bigger and bigger projects.
 
 ## contact
 
-GitHub: **nicezinks**
+github: **nicezinks**
 
-Discord: **temg090**
+discord: **temg090**
 
 ---
 
 <p align="center">
-  <b>code - error - search - fix - learn - repeat</b>
+  <b>code - break - fix - learn - repeat</b>
 </p>
+
