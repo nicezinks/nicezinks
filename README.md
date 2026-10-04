@@ -1,62 +1,46 @@
-# hey, i'm temg
+# hey, im temg 
 
-just a dev who likes coding, breaking stuff and fixing it lol.
+just a developer who likes coding, making stuff and breaking things lol.
 
-i code in **python, c, javascript, typescript, html and css**.
+i mainly work with **c, python and javascript**, but i also use typescript, html and css.
 
-i like building all kinds of stuff, from small scripts to bigger projects.
+i like building all kinds of projects, from small scripts and tools to bigger apps and random experiments.
 
-## my projects
+## what i like
 
-my github is full of different projects.
+* coding
+* learning new things
+* making tools
+* testing weird ideas
+* fixing bugs
 
-some are serious, some are just experiments.
+## languages
 
-most of them start with a random idea like:
+`c` `python` `javascript` `typescript` `html` `css`
 
-> "what if i build this?"
+## github
 
-and somehow turn into a whole project lmao.
+most of my projects are experiments, tools or things i made just because i wanted to see if i could.
 
-## what i do
+sometimes they work perfectly.
 
-* frontend
-* backend
-* apis
-* desktop apps
-* system tools
-* automation
-* random experiments
+sometimes they dont.
 
-## my goal
+thats part of coding lol.
 
-keep learning, improve my code and build cooler stuff.
-
-i'm always trying new things and exploring different areas of development.
-
-making mistakes is part of the process.
-
-more errors, more fixes, more experience.
-
-## github stats
+## stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicezinks&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicezinks&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ## contact
 
-github: **nicezinks**
-
+github: [nicezinks](https://github.com/nicezinks)
 discord: **temg090**
 
 ---
 
 <p align="center">
-  <b>code - break - fix - learn - repeat</b>
+  code - break - fix - learn - repeat
 </p>
-
