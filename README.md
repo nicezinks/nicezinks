@@ -1,12 +1,9 @@
-# hey, im temg
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Michael_Myers_in_Halloween_%281978%29_%28cropped%29.webp" alt="Michael Myers in Halloween (1978)" width="420" />
 </p>
 
-<p align="center">
-  <sub>Michael Myers · <a href="https://commons.wikimedia.org/wiki/File:Michael_Myers_in_Halloween_(1978)_(cropped).webp">photo source</a></sub>
-</p>
+# hey, im temg
 
 just a developer who likes coding, making stuff and breaking things lol.
 
@@ -39,11 +36,10 @@ sometimes they dont.
 thats part of coding lol.
 
 ## stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicezinks&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
+  <img src="https://github-stats-extended.vercel.app/api?username=nicezinks&show_icons=true&theme=tokyonight&hide_border=true"/>
+  </p>
+  
 ## links
 
 <p align="center">
